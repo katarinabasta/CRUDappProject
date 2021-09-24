@@ -1,0 +1,10 @@
+myfirstcrud\service\UserService.class
+myfirstcrud\controller\UserController.class
+myfirstcrud\dao\UserDaoImpl$UserMapper.class
+myfirstcrud\dao\UserDaoImpl$1.class
+myfirstcrud\dao\UserDaoImpl.class
+myfirstcrud\service\UserServiceImpl.class
+myfirstcrud\config\WebConfig.class
+myfirstcrud\config\WebInitializer.class
+myfirstcrud\model\User.class
+myfirstcrud\dao\UserDao.class
